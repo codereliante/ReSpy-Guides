@@ -10,7 +10,6 @@
 # ReSpy Documentation
 ## Contents
 * [Getting Started](#getting-started)
-* [Frequently Asked Questions](#frequently-asked-questions)
 
 ### Getting Started
 The easiest way to setup ReSpy is with the `/license` command.<br/>
