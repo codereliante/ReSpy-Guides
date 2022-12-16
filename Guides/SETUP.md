@@ -6,10 +6,6 @@
         </a> </p>
     </p>
 </div>
-<p align="center">
-    <a href="https://blox.link">
-        <img src="https://img.shields.io/website-up-down-green-red/https/blox.link.svg?label=website">
-    </a>
     <a href="https://discord.gg/g4Z2Pbx">
         <img src="https://img.shields.io/discord/372036754078826496.svg">
     </a>
