@@ -6,24 +6,10 @@
         </a> </p>
     </p>
 </div>
-    <a href="https://discord.gg/g4Z2Pbx">
-        <img src="https://ptb.discord.com/widget?id=1053105022612799508&theme=dark">
-    </a>
-</p>
 
-
-# Bloxlink Documentation
+# ReSpy Documentation
 ## Contents
 * [Getting Started](#getting-started)
-* [Nickname Templates](#nickname-templates)
-* [Group Roles](#group-roles)
-* [Permissions](#permissions)
-* [Power Ups](#power-ups)
-* [Command Usage](#command-usage)
-* [Bloxlink Premium](#bloxlink-premium)
-* [Magic Roles](#magic-roles)
-* [Virtual Groups](#virtual-groups)
-* [Cool things you can do with Bloxlink](#cool-things-you-can-do-with-bloxlink)
 * [Frequently Asked Questions](#frequently-asked-questions)
 
 ### Getting Started
