@@ -1,3 +1,3 @@
 # Directory
 
-(Hello)[https://roblox.com]
+[Hello](https://roblox.com)
