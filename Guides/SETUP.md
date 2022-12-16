@@ -1,16 +1,8 @@
 <div align="center">
     <img src="https://cdn.discordapp.com/icons/1032763361806536805/7475550d0be2cd987ad6c0c0555005ec.webp?size=56" height="200" width="200">
-    <h2>Bloxlink</h2>
+    <h2>ReSpy</h2>
     <p align="center">
-        <p>ReSpy— a paid seamless Discord utility bot.</p>
-        <p><a href="https://blox.link">
-            <b>View website » </b>
-        </a> </b> </p>	
-        <p> <a href="https://blox.link/invite">
-            <b>Invite Bloxlink »</b>
-        </a> </p>
-        <p> <a href="https://blox.link/server">
-            <b>Ask for support »</b>
+	<p>ReSpy— a paid seamless Discord utility bot.</p>
         </a> </p>
     </p>
 </div>
