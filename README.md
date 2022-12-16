@@ -1,3 +1,4 @@
 # Directory
 
-[Hello](https://roblox.com)
+[Setup Guide](https://roblox.com)
+[Purchasing Guide](https://roblox.com)
